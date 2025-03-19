@@ -1,0 +1,162 @@
+[
+    {
+        "ID": 1,
+        "Name": "Introduction to Algorithms",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 0,
+        "Category": "Free",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 2,
+        "Name": "The Art of War",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 0,
+        "Category": "Free",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 3,
+        "Name": "Pride and Prejudice",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 0,
+        "Category": "Free",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 4,
+        "Name": "Frankenstein",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 0,
+        "Category": "Free",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 5,
+        "Name": "The Adventures of Sherlock Holmes",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 0,
+        "Category": "Free",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 6,
+        "Name": "To Kill a Mockingbird",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 9.99,
+        "Category": "Fiction",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 7,
+        "Name": "1984",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 12.99,
+        "Category": "Dystopian",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 8,
+        "Name": "The Catcher in the Rye",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 11.50,
+        "Category": "Fiction",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 9,
+        "Name": "The Great Gatsby",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 10.00,
+        "Category": "Classic",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 10,
+        "Name": "Brave New World",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 13.00,
+        "Category": "Dystopian",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 11,
+        "Name": "The Da Vinci Code",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 14.99,
+        "Category": "Mystery",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 12,
+        "Name": "Harry Potter and the Sorcerer's Stone",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 15.00,
+        "Category": "Fantasy",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 13,
+        "Name": "The Hobbit",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 12.50,
+        "Category": "Fantasy",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 14,
+        "Name": "The Road",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 13.50,
+        "Category": "Post-Apocalyptic",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 15,
+        "Name": "Sapiens: A Brief History of Humankind",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 16.99,
+        "Category": "Non-Fiction",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 16,
+        "Name": "Educated",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 17.50,
+        "Category": "Memoir",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 17,
+        "Name": "The Silent Patient",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 14.50,
+        "Category": "Thriller",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 18,
+        "Name": "Where the Crawdads Sing",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 18.00,
+        "Category": "Mystery",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 19,
+        "Name": "The Subtle Art of Not Giving a F*ck",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 15.99,
+        "Category": "Self-Help",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    },
+    {
+        "ID": 20,
+        "Name": "Atomic Habits",
+        "Title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Price": 16.50,
+        "Category": "Self-Help",
+        "Image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725089919~exp=1725093519~hmac=47fe14406ad9b11074d199e9614eb78a0bbc6ea48a1892f555069bd9bcf1c844&w=740"
+    }
+]
