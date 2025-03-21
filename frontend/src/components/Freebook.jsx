@@ -4,7 +4,6 @@ import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import Cards from "./Cards";
 import axios from "axios";
-// import Book from "../../../backend/model/book_model.js";
 
 function Freebook() {
 
